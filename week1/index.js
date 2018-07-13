@@ -1,6 +1,6 @@
 //Task 1
 console.log('Task 1');
-console.log('Hello World, Node.js!');
+console.log('Hello World, Node.jj Merge Conflict');
 
 // Task 2
 var myString = "Hello@World, Node.js Stringsss";
